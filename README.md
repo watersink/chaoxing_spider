@@ -8,12 +8,17 @@ a spider used to crawl [chaoxing](http://book.chaoxing.com/) books in jpg format
 
 ## dependencies:
 urllib
+> 
 urllib.request
+> 
 BeautifulSoup
+> 
 selenium
-
+> 
 [phantomjs](http://phantomjs.org/)
+> 
 [chromedriver](http://chromedriver.storage.googleapis.com/index.html),should be placed C:\Program Files (x86)\Google\Chrome\Application
+> 
 [geckodriver](https://github.com/mozilla/geckodriver/releases/)
 
 ## original cnn multiple lables classification
@@ -31,6 +36,6 @@ selenium
     python3 chaoxing_17.py
 ![image]( https://github.com/watersink/chaoxing_spider/raw/master/img/d2.png)
 
-##Note
+## Note
 only used for study,no commerical use
 
